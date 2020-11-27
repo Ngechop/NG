@@ -1,0 +1,152 @@
+<!doctype html lang "en-US">
+<title>lotoafrik.com</title>
+<meta charset="UTF-8">
+<meta name="description" content="Welcome to loto afrique, where we will give you all the information you need to know about loto from loto results write up to predictions and games">
+<meta name="keywords" content="loto,lotoafrik,africaloto,lottery">
+<meta name="author" content="lotoafrik">
+<meta name="viewport" content="width=device-width, initia,l-scale=1.0">
+<head>
+  <link rel="stylesheet" href="style.css">
+  <script src="search.js"></script>
+
+
+  <style>
+    .img-div {
+      margin: auto;
+      background-color: blue;
+      height: 70px;
+      width: 100%;
+    }
+      .img-div img {
+         display: block;
+         margin: auto;
+         width: 25%;
+       }
+
+       .menu {
+         background-color: grey;
+          width: 170px;
+       }
+
+       .img-menu {
+         float: left;
+         width: 100%;
+       }
+
+       .menu-right{
+         width: auto;
+         height: 258px;
+         background-color: cornflowerblue;
+         
+       }
+  </style>
+</head>
+<body >
+ <svg width="75" height="16" >
+    <circle class="live" cx="10" cy="10" r="4.5" stroke="black" stroke-width="2" fill="blue" />
+    <circle cx="25" cy="10" r="4.5" stroke="black" stroke-width="2" fill="yellow" />
+    <circle cx="40" cy="10" r="4.5" stroke="black" stroke-width="2" fill="red" />
+    <circle cx="70" cy="10" r="4" stroke="black" stroke-width="2" fill="green" />
+ </svg>
+  <font size="3vw">live support</font>
+<button style="float:right">Download APK</button>
+
+ <div class="img-div">
+  <img src="photos/logo.png"  height="auto" max-height="50" >
+ </div>
+
+  
+<button style="float:right">ENGLISH</button>
+
+
+<button>LOG IN</button><div id="google_translate_element"></div>
+</fieldset></p>
+<!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="topnav" id="myTopnav">
+  <input id="search" type="search" placeholder="SEARCH LOTOAFRIK" style="width:40%; height:40px; border-radius:10%; ">
+
+ 
+  <a href="#">BLOG</a>
+  <a href="#">ABOUT</a>
+  <a href="#">LOTTERY</a>
+  <a href="#">PREDICTIONS</a>
+  <a href="#">RESULTS</a>
+  <a href="#" class="active">HOME</a>
+  
+
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<div>
+  
+  <div class="menu">
+      <img class="img-menu" src="photos/logo.png" style="background-color: blue;">
+       <UL>
+         <li>CAMEROON</li>
+         <li>IVORY COAST</li>
+         <li>SOUTH AFRICA</li>
+         <li>NIGERIA</li>
+         <li>BENIN</li><br>
+         <li>CHAT ROOM</li>
+         <li>GAMES</li>
+         <li>CASINO</li>
+         <li>FOOTBALL PREDICTIONS</li>
+         <li>DOWNLOAD APK</li>
+       </UL>
+     </div>
+     
+
+    </div>
+</div>
+<form><input type="textarea" placeholder="drop a comment" cols="10" row="2"> <input type="email" name="email" placeholder="email"> <input type="submit" value="comment"> <input type="reset"> </form>
+
+</body>
+
+<footer>
+  <div class="footer">
+    <div>
+      <u>ABOUT US</u>
+      <a href="#">NEWS</a><br>
+      <a href="#">JOBS</a><br>
+      <a href="#">POLICIES</a><br>
+      <a href="#">CONTACT US</a><br>
+
+    </div>
+<div> 
+  <ul>SOCIAL</ul>
+  <a href="#">FACEBOOK</a><br>
+  <a href="#">INSTAGRAM</a><br>
+  <a href="#">YOUTUBE</a><br>
+  <a href="#">TRY OUR APP</a><br>
+
+</div>
+<div> 
+  <ul>SERVICES</ul>
+  <a href="#">FAQS</a><br>
+  <a href="#">LIVE SUPPORT</a><br>
+  <a href="#">PROMOTIONS</a><br>
+  
+  <div><ul>LOG IN OR SIGN UP</ul> </div>
+
+</div>
+
+  </div>
+</footer>
+
+
+
+</html>
